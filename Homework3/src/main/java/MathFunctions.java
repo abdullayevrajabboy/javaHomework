@@ -1,7 +1,5 @@
 public class MathFunctions {
-    {
 
-    }
     public static final double PI=  3.14159265359;
     public static final double e=2.71828182846;
 
